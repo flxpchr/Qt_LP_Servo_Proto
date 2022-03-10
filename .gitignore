@@ -1,0 +1,10 @@
+
+.qmake.stash
+
+debug/
+
+*.Debug
+
+Makefile
+
+*.Release
